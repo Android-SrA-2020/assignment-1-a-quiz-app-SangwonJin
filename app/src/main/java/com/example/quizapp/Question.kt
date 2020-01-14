@@ -1,4 +1,5 @@
 package com.example.quizapp
 
-class Question {
+data class Question (val resoruceId:Int, val answer:Boolean){
+
 }
