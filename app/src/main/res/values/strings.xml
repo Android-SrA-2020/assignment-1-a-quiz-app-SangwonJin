@@ -23,5 +23,8 @@
     <string name="question_18">The Episode \'Something Ricked This Way\' Is A Parody Of An Edgar Allen Poe Poem</string>
     <string name="question_19">Rick\'s Hivemind Ex-Lover Is Called Purity?</string>
     <string name="question_20">The Conjoint Twin That Simultaneously Host The News &amp;v A Cooking Show Are Calle Michael &amp; Pichael?</string>
+    <string name="previous_button">Previous</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
 
 </resources>
